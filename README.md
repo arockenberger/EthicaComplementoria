@@ -28,10 +28,4 @@ Furthermore, I still toy with the idea of developing a description set for physi
 Read about the Ethica and related projects of mine on the [Greflinger - Digitale Edition weblog](https://greflinger.hypotheses.org/).
 ## References
 
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyMDU3MTIsLTE5MjYwMTg5NDAsLT
-EzNTAwMjczNzAsLTE5OTY5Nzg2NjQsMTA0MjcxMDA0N119
--->
+Working bibliography can be found on [Zotero (public, view only)](https://www.zotero.org/groups/189709/georg_greflinger__digitale_archiv_edition)
